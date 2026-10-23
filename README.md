@@ -2,7 +2,7 @@
 
 ![Publication Fit Review: Share what your reader needs. Respect what may be disclosed. Keep essential limits and credits.](assets/hero.svg)
 
-[MIT](LICENSE) · [Downloads](https://github.com/Vadale/publication-fit-review/releases) · [Report a problem](https://github.com/Vadale/publication-fit-review/issues)
+[MIT](LICENSE) · [Downloads](https://github.com/Vadale/publication-fit-review-skill/releases) · [Report a problem](https://github.com/Vadale/publication-fit-review-skill/issues)
 
 Decide what belongs in a project delivery before it reaches another person.
 Plan useful materials before files exist, or review an exact repository,
@@ -21,7 +21,7 @@ essential limitations and useful public tests still belong in a faithful deliver
 Ask the built-in installer:
 
 ```text
-$skill-installer install https://github.com/Vadale/publication-fit-review/tree/main/skills/publication-fit-review
+$skill-installer install https://github.com/Vadale/publication-fit-review-skill/tree/main/skills/publication-fit-review
 ```
 
 Or copy the complete [skills/publication-fit-review](skills/publication-fit-review) folder into
@@ -83,5 +83,5 @@ claim is made. Development evidence and private case answers are not distributed
 
 ## Related workflows
 
-[R analysis](https://github.com/Vadale/r-statistical-analysis), [finding triage](https://github.com/Vadale/sec-graph-triage), [personal AI-project feedback](https://github.com/Vadale/ai-project-coach), [bounded action approval](https://github.com/Vadale/sentinel-action-guard), [project resumption](https://github.com/Vadale/project-continuity).
+[R analysis](https://github.com/Vadale/r-statistical-analysis-skill), [finding triage](https://github.com/Vadale/sec-graph-triage-skill), [personal AI-project feedback](https://github.com/Vadale/ai-project-coach-skill), [bounded action approval](https://github.com/Vadale/sentinel-action-guard-skill), [project resumption](https://github.com/Vadale/project-continuity-skill).
 These are independent products; none is a required companion.
