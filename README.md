@@ -16,6 +16,18 @@ essential limitations and useful public tests still belong in a faithful deliver
 
 ![Scope: Audience, destination and existing permissions; Review: Recipient value, permission and urgency kept separate; Prepare: Keep, adapt, exclude or clarify without deleting originals.](assets/workflow.svg)
 
+## Try a natural request
+
+Once this skill is installed and visible to your assistant, try:
+
+> Before I share this repository with new users, decide which materials belong in the delivery. Personal planning stays private; keep useful setup instructions, limits and licenses.
+
+A content map with keep, adapt, exclude or clarify decisions, separating usefulness, sharing permission and urgency. Review alone does not publish or delete anything.
+
+See the [synthetic input/output example](examples/natural-request.md) for expected
+behavior and nearby tasks that need another workflow. Automatic selection
+depends on your host and model; explicit invocation remains available.
+
 ## Install in Codex
 
 Ask the built-in installer:

@@ -1,4 +1,4 @@
 interface:
   display_name: "Publication Fit Review"
-  short_description: "Choose what belongs in a shared project"
+  short_description: "Review what belongs in material you plan to share"
   default_prompt: "Use $publication-fit-review to plan or review this content for its intended audience and destination."

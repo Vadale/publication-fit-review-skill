@@ -1,6 +1,6 @@
 ---
 name: publication-fit-review
-description: Plan materials for a specified audience before a project starts, or review a repository, document, attachment or post before sharing. Distinguish recipient value, sharing permission and urgency; propose keep, adapt, exclude or clarify decisions. Use for content selection and editorial disclosure review, rather than general code review or secret scanning alone.
+description: "Decide what belongs in material for a specified audience: a repository, document, attachment or post. Use to plan disclosure before creation or review existing material, including previously shared content. Separate recipient value, sharing permission and urgency; recommend keep, adapt, exclude or clarify. Not a general code audit, secret scan or publishing tool."
 ---
 
 # Publication Fit Review
