@@ -1,0 +1,5 @@
+{
+  "name": "publication-fit-review-skill",
+  "version": "0.1.4",
+  "description": "Review what belongs in a repository, document or post for a named audience. Editorial selection, not secret scanning or automatic upload protection."
+}
